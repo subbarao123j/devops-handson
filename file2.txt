@@ -1,4 +1,8 @@
 Hi subba
 :wq
+<<<<<<< HEAD
 added nnew file data
 
+=======
+
+>>>>>>> masterA
